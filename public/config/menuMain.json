@@ -1,0 +1,26 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al Inicio",
+    "path": "index.html"
+  },  
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "normativa",
+    "title": "1. Normativa que regula el diseño curricular",
+    "path": "pages/tema-1.html"
+  }, 
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "guia",
+    "title": "2. Guía de diseño curricular",
+    "path": "pages/tema-2.html"
+  },
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "procedimiento",
+    "title": "3. Procedimiento de diseño curricular",
+    "path": "pages/tema-3.html"
+  }
+]

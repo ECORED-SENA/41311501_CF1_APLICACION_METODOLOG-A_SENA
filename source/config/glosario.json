@@ -1,0 +1,47 @@
+[
+  {
+    "letter": "F",
+    "terms": [
+      {
+        "title": "Formación Profesional Integral",
+        "desciption": "Proceso teórico-práctico que se orienta al desarrollo de conocimientos técnicos, tecnológicos de actitudes y valores para su convivencia social y laboral."
+      }
+    ]
+  },
+  {
+    "letter": "G",
+    "terms": [
+      {
+        "title": "Grupo de Gestión Curricular:",
+        "desciption": "Grupo de la Dirección de Formación Profesional del SENA encargado de los procedimientos de diseño curricular, desarrollo curricular y aseguramiento de la calidad."
+      }
+    ]
+  }, 
+  {
+    "letter": "M",
+    "terms": [
+      {
+        "title": "Mesas Sectoriales",
+        "desciption": "Son el espacio natural de concertación con el sector productivo, gubernamental y académico para desarrollar la gestión del talento humano por competencias generando conocimiento transferible a la formación profesional."
+      }
+    ]
+  },
+  {
+    "letter": "N",
+    "terms": [
+      {
+        "title": "Norma Sectorial de Competencia Laboral (NSCL)",
+        "desciption": "Estándar reconocido a nivel nacional que describe los resultados que un trabajador debe lograr en el desempeño de una función laboral, los conocimientos que aplica y las evidencias requeridas para demostrar su competencia.  (Guía de normalización de competencias laborales)."
+      }
+    ]
+  },
+  {
+    "letter": "O",
+    "terms": [
+      {
+        "title": "Ocupación",
+        "desciption": "Conjunto de empleos cuyas principales tareas y cometidos se caracterizan por un alto grado de similitud."
+      }
+    ]
+  }  
+]
