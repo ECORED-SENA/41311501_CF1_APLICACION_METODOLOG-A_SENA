@@ -12,13 +12,13 @@
     "path": "pages/tema-1.html"
   }, 
   {
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text-o",
     "slug": "guia",
     "title": "2. Guía de diseño curricular",
     "path": "pages/tema-2.html"
   },
   {
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text-o",
     "slug": "procedimiento",
     "title": "3. Procedimiento de diseño curricular",
     "path": "pages/tema-3.html"
